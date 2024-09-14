@@ -72,6 +72,7 @@ pokemon-matome.net##.inner
 
 !livedoor系
 ##.app-follow-banner
+##.ldapp-article
 ##.ldapp-link
 ##.plugin-blogroll
 ##.plugin-popular_articles-new
@@ -84,6 +85,7 @@ pokemon-matome.net##.inner
 ##iframe[src*="/plugins/like.php"]
 ||feed.mikle.com$domain=~funato.us|~l-lal.space
 ##.content > #lite_link
+/json/matomeportal_support_jp_blog.json|
 /json/attention_ranking_top.json|
 /json/ranking_category_min_
 /json/pbp_ranking.json|
@@ -117,3 +119,5 @@ www.cityheaven.net###fixed_menu
 ||adserver.vrizead.com^
 ||dlsite.com/maniax/api/=/blogparts
 ^https://ipcheck.blogsys.jp/check.js
+||aladdin.genieesspv.jp^
+||uncn.jp^
