@@ -119,5 +119,5 @@ www.cityheaven.net###fixed_menu
 ||adserver.vrizead.com^
 ||dlsite.com/maniax/api/=/blogparts
 ^https://ipcheck.blogsys.jp/check.js
-||aladdin.genieesspv.jp^
-||uncn.jp^
+||aladdin.genieesspv.jp
+||uncn.jp
